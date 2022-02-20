@@ -1,6 +1,6 @@
 # fg-scenery-lows
 
-A custom scenery for Salzburg Maxglad airport (LOWS) for the flightgear flight simulator
+A custom scenery for Salzburg Maxglan airport (LOWS) for the Flightgear flight simulator
 
 = scratchpad =
 
