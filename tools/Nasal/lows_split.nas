@@ -20,10 +20,16 @@ var gpltxt = "\n\n<!-- LOWW airport scenery model for the Flightgear flight simu
 
 var groups = [
     {name: "lows-north", 
-       obj: ["adminbuilding", "portal.01"]
+       obj: ["hangar.01", "hangar.03", "hangar.04", "hangar.05", "hangar.r1", "hangar.r2", "hangar.r3" ]
+    },
+    {name: "lows-hangars", 
+       obj: ["adminbuilding", "portal.01", "portal.03", "portal.04", "small.shelter", "geraetehalle", "equiphangar", "equiphangar.01", "equiphangar.02"]
     },
     {name: "lows-terminal1", 
        obj: ["terminal.01", "portal.02"]
+    },
+    {name: "lows-terminal2", 
+       obj: ["terminal.02","terminal.02.fac", "terminal.02.sign", "hangar.02", "hangar.02.door", "cabin", "flugdach"]
     },
 
 ];
